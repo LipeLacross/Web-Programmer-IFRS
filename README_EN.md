@@ -35,44 +35,83 @@ This project is part of the **Web Programmer Course** at **IFRS** (Instituto Fed
 
 ## 📁 Project Structure
 
-Below is a summary of the main folders and their contents:
+Below is a complete summary of all the folders and their contents:
 
 - **1.11.1 Exemplo imagem.html-20241231/**
-
     - `imagem.html`: Example of using the `<img>` tag.
     - `esquilo.jpg`: Image displayed in the example.
 
 - **1.12.1 Exemplo audio.html-20241231/**
-
     - `audio.html`: Example of using the `<audio>` tag.
     - `music.mp3`: Audio file.
 
-- **2.7.1 Exemplo menu-20250103/**
+- **1.12.2 Exemplo video.html-20241231/**
+    - `video.html`: Example of using the `<video>` tag.
+    - `video.mp4`: Video file.
 
+- **2.1.1 Exemplo 1-20241231/**
+    - `index.html`: Basic example with inline styles.
+    - `estilo.css`: Demonstrates CSS styling.
+
+- **2.7.1 Exemplo menu-20250103/**
     - `index.html`: Example of an interactive menu with CSS.
     - `styles.css`: Menu styles (hover effects, submenus, etc.).
 
 - **2.8.1 Exemplo Media Query-20250103/**
-
     - `index.html`: Using different breakpoints for responsive layout.
     - `pagina.css`: Contains the Media Queries.
 
 - **4.12.1 Código-fonte onLoad-20250104/**
-
     - `load.html`: Demonstrates `onLoad` and `onResize` events.
     - `load.js`: Script for logging events on the page.
 
-- **4.16.1 Código-fonte validação de formulários-20250104/**
+- **4.13.1 Código-fonte onClick-20250104/**
+    - `click.html`: Example for handling click and double-click events.
+    - `click.js`: Script to handle image toggling based on click events.
+    - `fachada.jpg`: Image displayed on click.
+    - `ifrs.gif`: Image displayed on double-click.
 
+- **4.15.1 Código-fonte eventos do mouse-20250104/**
+    - `mouse.html`: Example of mouse events like hover, click, and drag.
+    - `mouse.js`: Script demonstrating color changes during mouse events.
+    - `mouse.css`: Styles for the mouse interaction example.
+
+- **4.16.1 Código-fonte validação de formulários-20250104/**
     - `vazio.html`: Demonstrates a simple empty field check.
     - `vazio.js`: Code that alerts if the field is empty.
 
-- **Backup/**
+- **4.17.1 Código-fonte cálculo do IMC-20250104/**
+    - `imc.html`: Page for calculating BMI.
+    - `imc.js`: Script to compute BMI and validate input fields.
 
-    - Zips of each topic, in case you want to restore or download them separately.
+- **4.18.1 Código-fonte transformação de letra-20250104/**
+    - `maiuscula.html`: Example for converting text to uppercase.
+    - `maiuscula.js`: Script to automatically transform text input.
+
+- **4.3.1 Código-fonte operações aritméticas-20250104/**
+    - `indexjs.html`: Example using basic arithmetic operations.
+    - `meucodigo.js`: Script demonstrating prompts and calculations.
+
+- **4.5.1 Código-fonte média de valores-20250104/**
+    - `media.html`: Example for calculating average grades.
+    - `media.js`: Script for grade calculation with conditions.
+
+- **4.6.1 Código-fonte confirmação-20250104/**
+    - `confirm.html`: Example demonstrating the `confirm` method.
+    - `confirm.js`: Script to handle confirmation prompts.
+
+- **4.7.1 Código-fonte laços de repetição-20250104/**
+    - `repete.html`: Example demonstrating loops.
+    - `repete.js`: Script to iterate and display messages.
+
+- **4.8.1 Código-fonte para até-20250104/**
+    - `parate10.html`: Example using loops to list even numbers.
+    - `parate10.js`: Script to generate even numbers up to a limit.
+
+- **Backup/**
+    - Contains ZIP files for each example folder.
 
 - **sweetalert-master/**
-
     - Contains the source code of the SweetAlert library, including examples, styles, tests, and documentation.
     - Useful for displaying friendly and customized alerts in JavaScript.
 
